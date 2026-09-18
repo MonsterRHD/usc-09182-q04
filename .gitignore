@@ -2,6 +2,7 @@
 *.key
 *.pem
 node_modules/
+data/
 .venv/
 venv/
 dist/
