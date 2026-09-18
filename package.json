@@ -1,0 +1,9 @@
+{
+  "name": "09182-q004",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "test": "node --test"
+  }
+}
